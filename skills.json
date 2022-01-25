@@ -1,5 +1,7 @@
 {
-"qa": " ",
-"python": " "
+"sklls": ["1.Testing API via Postman",
+          "2.Python",
+          "3.Basic Theory",
+          "4.SQL Basics",
+          "5.Basics of bash scripting"]
 }
-
